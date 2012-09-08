@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/hungryfish0f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish1f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish2f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish3f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish4f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish5f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish6f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish7f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish8f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish9f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish10f" android:duration="20" />
+    <item android:drawable="@drawable/hungryfish11f" android:duration="20" />
+</animation-list>

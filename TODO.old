@@ -1,0 +1,18 @@
+[by picospuch]
+未完成:
+
+已完成:
+完善主界面
+//添加结束画面
+添加记分板
+程序开始和结束画面
+音效(用service实现)
+看自定义控件, 联系本应用
+
+所有spirit动画用AnimationDrawable导入后, 直接手动处理, 不依赖os提供的框架, 减小复杂性;
+在SurfaceView上用AnimationDrawable不能会方便, 不是最佳实践!
+
+关于输入部分的控制和优化(使用了主线程的Handler)
+基本鱼逻辑
+[/]
+
