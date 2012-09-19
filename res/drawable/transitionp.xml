@@ -5,9 +5,6 @@
 		android:drawable="@drawable/hungryfish0"
 		/>
 	<item
-		android:drawable="@drawable/sa"
-		/>
-	<item
 		android:drawable="@drawable/circlep"
 		/>
 </transition>

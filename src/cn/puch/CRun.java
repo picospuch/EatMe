@@ -80,7 +80,7 @@ public class CRun implements Runnable, OnKeyListener
 		if (bgSize<SCREEN_WIDTH ||bgSize<SCREEN_HEIGHT) Log.e("p", "bgSize is too small");
 		validArea=new Rect((bgSize-SCREEN_WIDTH)/2,0,(bgSize-SCREEN_WIDTH)/2+SCREEN_WIDTH, SCREEN_HEIGHT);
 		// assert bgSize is big enough
-		bt=BitmapFactory.decodeResource(osc.getResources(), R.drawable.sa);
+//		bt=BitmapFactory.decodeResource(osc.getResources(), R.drawable.sa);
 		// aBitmap设置为bgSize见方
 		aBitmap=Bitmap.createBitmap(bgSize, bgSize, Config.ARGB_8888);
 		aBitmap.setDensity(160);
